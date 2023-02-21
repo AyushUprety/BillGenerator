@@ -7,7 +7,7 @@ An Invoice Generator project built with React and TailwindCSS. Add items, quanti
 
 ### Live Demo
 
-bill-generator-umber.vercel.app
+<a hfef="bill-generator-umber.vercel.app"/>
 
 ### Screenshots
 
